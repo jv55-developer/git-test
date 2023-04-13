@@ -21,7 +21,7 @@ body {
     text-align: center;
     padding: 2em;
 }
-h1 {
+h1, p {
     text-align: center;
     font-family: 'Kavoon', sans-serif;
     font-size: 2.5em;
